@@ -1,0 +1,1704 @@
+[
+    {
+        "id": "scope-ru",
+        "type": "scope",
+        "name": "",
+        "links": [],
+        "imageUrl": "static/logo/scope-house.png",
+        "url": null
+    },
+    {
+        "id": "scope-ru-osint",
+        "type": "scope",
+        "name": "OSINT",
+        "links": [
+            "scope-ru",
+            "user-romachev",
+            "user-masalovich",
+            "user-timohin",
+            "user-ciartem",
+            "user-dstoun",
+            "user-osintby",
+            "user-satana666mx",
+            "user-antipovevgenii",
+            "user-beholderishere",
+            "user-r3dhunt",
+            "user-gijnru",
+            "user-bederov",
+            "user-gspdnsobaka",
+            "user-jsdio",
+            "user-usersbox",
+            "user-cyb-detective",
+            "user-agent-noreply",
+            "user-soxoj",
+            "user-denis-wagner",
+            "user-madspectator",
+            "user-schwarz-osint"
+        ],
+        "imageUrl": "static/logo/scope-house.png",
+        "url": null
+    },
+    {
+        "id": "scope-ru-infosec",
+        "type": "scope",
+        "name": "Info Security",
+        "links": [
+            "scope-ru",
+            "user-iskra112",
+            "user-infosecurityevil",
+            "user-gebutcher",
+            "user-shadow",
+            "user-kvakirsanov",
+            "user-yarbabin",
+            "user-true-secator",
+            "user-cybred",
+            "user-codeby",
+            "user-ibooom",
+            "user-freedomf0x",
+            "user-alukatsk",
+            "org-elcomsoft",
+            "user-vektort13",
+            "user-pavlovich",
+            "user-tomhunter",
+            "user-followmebla",
+            "user-cyberyozh",
+            "user-mifkilla",
+            "user-itscrt",
+            "user-cepter",
+            "user-over",
+            "user-my-cyde",
+            "user-zeroday",
+            "user-ralf-hacker",
+            "user-x86corez",
+            "org-group-ib",
+            "user-seadm1n",
+            "user-defcon",
+            "user-ksvark",
+            "user-cyberjobsrussia",
+            "user-dc8044",
+            "user-anton-shipulin",
+            "user-router-os",
+            "user-kii187fz",
+            "user-komarov",
+            "user-artemov",
+            "user-darknet-prison",
+            "user-nekaspersky"
+        ],
+        "imageUrl": "static/logo/scope-house.png",
+        "url": null
+    },
+    {
+        "id": "scope-ru-data",
+        "type": "scope",
+        "name": "Data",
+        "links": [
+            "scope-ru",
+            "user-persdata",
+            "user-begtin",
+            "user-alexmaknet",
+            "user-hexuary",
+            "user-ashotog",
+            "user-johnripper"
+        ],
+        "imageUrl": "static/logo/scope-house.png",
+        "url": null
+    },
+    {
+        "id": "user-madspectator",
+        "type": "user",
+        "name": "madspectator",
+        "links": [
+            "channel-grablab-osint-news-ru",
+            "group-grablab-osint-ru",
+            "github-lorien"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": "https://t.me/madspectator"
+    },
+    {
+        "id": "channel-grablab-osint-news-ru",
+        "name": "GrabLab OSINT Ru Новости",
+        "type": "channel",
+        "links": [
+            "group-grablab-osint-ru"
+        ],
+        "imageUrl": "static/logo/group-grablab-osint-news-ru.jpg",
+        "url": "https://t.me/grablab_osint_news_ru"
+    },
+    {
+        "id": "group-grablab-osint-ru",
+        "name": "GrabLab OSINT Ru Чат",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-grablab-osint-ru.jpg",
+        "url": "https://t.me/grablab_osint_ru"
+    },
+    {
+        "id": "github-lorien",
+        "name": "lorien",
+        "type": "github",
+        "links": [],
+        "imageUrl": "static/logo/github.png",
+        "url": "https://github.com/lorien"
+    },
+    {
+        "id": "user-agent-noreply",
+        "name": "Agent",
+        "type": "user",
+        "links": [
+            "group-howtofind-chat",
+            "channel-howtofind-ru"
+        ],
+        "imageUrl": "static/logo/user-agent-noreply.jpg",
+        "url": "https://t.me/agent_noreply"
+    },
+    {
+        "id": "group-howtofind-chat",
+        "name": "Public HowToFind Group",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-howtofind-chat.jpg",
+        "url": "https://t.me/howtofind_chat"
+    },
+    {
+        "id": "channel-howtofind-ru",
+        "name": "HowToFind на русском",
+        "type": "channel",
+        "links": [
+            "group-howtofind-chat"
+        ],
+        "imageUrl": "static/logo/channel-howtofind-ru.jpg",
+        "url": "https://t.me/howtofind_ru"
+    },
+    {
+        "id": "user-soxoj",
+        "name": "Soxoj",
+        "type": "user",
+        "links": [
+            "channel-osint-mindset",
+            "github-soxoj"
+        ],
+        "imageUrl": "static/logo/user-soxoj.jpg",
+        "url": "https://t.me/soxoj"
+    },
+    {
+        "id": "channel-osint-mindset",
+        "name": "OSINT mindset",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-osint-mindset.jpg",
+        "url": "https://t.me/osint_mindset"
+    },
+    {
+        "id": "github-soxoj",
+        "name": "soxoj",
+        "type": "github",
+        "links": [],
+        "imageUrl": "static/logo/user-soxoj.jpg",
+        "url": "https://github.com/soxoj"
+    },
+    {
+        "id": "user-denis-wagner",
+        "name": "Denis Wagner",
+        "type": "user",
+        "links": [
+            "channel-osint-rf-lib",
+            "group-osint-rf",
+            "group-osint-search"
+        ],
+        "imageUrl": "static/logo/user-denis-wagner.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-osint-rf-lib",
+        "name": "Библиотека цифровой разведки - OSINT",
+        "type": "channel",
+        "links": [
+            "group-osint-rf"
+        ],
+        "imageUrl": "static/logo/channel-osint-rf-lib.jpg",
+        "url": "https://t.me/osint_rf_lib"
+    },
+    {
+        "id": "group-osint-rf",
+        "name": "OSINT | Сетевая разведка и поиск | Цифровая криминалистика | Forensic | Netstalking",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-osint-rf.jpg",
+        "url": "https://t.me/osint_rf"
+    },
+    {
+        "id": "group-osint-search",
+        "name": "OSINT | Поиск людей | Розыск преступников | Интернет-расследования",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-osint-search.jpg",
+        "url": "https://t.me/osint_search"
+    },
+    {
+        "id": "user-cyberyozh",
+        "name": "Cyber Yozh",
+        "type": "user",
+        "links": [
+            "channel-cyberyozh-official",
+            "group-cyberyozhtalks"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-cyberyozh-official",
+        "name": "CyberYozh",
+        "type": "channel",
+        "links": [
+            "group-cyberyozhtalks"
+        ],
+        "imageUrl": "static/logo/channel-cyberyozh-official.jpg",
+        "url": "https://t.me/cyberyozh_official"
+    },
+    {
+        "id": "group-cyberyozhtalks",
+        "name": "CyberYozh Talks",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-cyberyozhtalks.jpg",
+        "url": "https://t.me/cyberyozhtalks"
+    },
+    {
+        "id": "user-gspdnsobaka",
+        "name": "господин собака",
+        "type": "user",
+        "links": [
+            "channel-osint-club-channel",
+            "group-osint-club"
+        ],
+        "imageUrl": "static/logo/user-gspdnsobaka.jpg",
+        "url": "https://t.me/gspdnsobaka"
+    },
+    {
+        "id": "user-jsdio",
+        "name": "Григорич",
+        "type": "user",
+        "links": [
+            "channel-osint-club-channel",
+            "group-osint-club"
+        ],
+        "imageUrl": "static/logo/user-jsdio.jpg",
+        "url": "https://t.me/jsdio"
+    },
+    {
+        "id": "group-osint-club",
+        "name": "OSINT Club",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-osint-club.jpg",
+        "url": "https://t.me/osint_club"
+    },
+    {
+        "id": "channel-osint-club-channel",
+        "name": "OSINT CLUB",
+        "type": "channel",
+        "links": [
+            "group-osint-club"
+        ],
+        "imageUrl": "static/logo/channel-osint-club-channel.jpg",
+        "url": "https://t.me/osint_club_channel"
+    },
+    {
+        "id": "channel-b4tr-channel",
+        "name": "b4tr_channel",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-b4tr-channel.jpg",
+        "url": "https://t.me/b4tr_channel"
+    },
+    {
+        "id": "user-followmebla",
+        "name": "Follow me!",
+        "type": "user",
+        "links": [
+            "channel-b4tr-channel"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": "https://t.me/followmebla"
+    },
+    {
+        "id": "user-alexmaknet",
+        "name": "Error retrieving username",
+        "type": "user",
+        "links": [
+            "channel-alexmakus"
+        ],
+        "imageUrl": "static/logo/user-alexmaknet.jpg",
+        "url": "https://t.me/alexmaknet"
+    },
+    {
+        "id": "channel-alexmakus",
+        "name": "Информация опасносте",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-alexmakus.jpg",
+        "url": "https://t.me/alexmakus"
+    },
+    {
+        "id": "user-bederov",
+        "name": "Игорь Бедеров",
+        "type": "user",
+        "links": [
+            "channel-irozysk",
+            "group-comments-irozysk",
+            "website-irozysk"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": "https://t.me/ibederov"
+    },
+    {
+        "id": "channel-irozysk",
+        "name": "Интернет-Розыск",
+        "type": "channel",
+        "links": [
+            "group-comments-irozysk"
+        ],
+        "imageUrl": "static/logo/channel-irozysk.jpg",
+        "url": "https://t.me/irozysk"
+    },
+    {
+        "id": "group-comments-irozysk",
+        "name": "ЯМы OSINT",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-comments-irozysk.jpg",
+        "url": "https://t.me/comments_irozysk"
+    },
+    {
+        "id": "website-irozysk",
+        "name": "Интернет-Розыск",
+        "type": "website",
+        "links": [],
+        "imageUrl": "static/logo/website-irozysk.png",
+        "url": "https://интернет-розыск.рф"
+    },
+    {
+        "id": "user-tomhunter",
+        "name": "Tom Hunter",
+        "type": "user",
+        "links": [
+            "channel-tomhunter"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-tomhunter",
+        "name": "T.Hunter",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-tomhunter.jpg",
+        "url": "https://t.me/tomhunter"
+    },
+    {
+        "id": "user-gijnru",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-gijnru"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-gijnru",
+        "name": "Глобальная сеть журналистов-расследователей",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-gijnru.jpg",
+        "url": "https://t.me/gijnru"
+    },
+    {
+        "id": "user-r3dhunt",
+        "name": "R3dhunt",
+        "type": "user",
+        "links": [
+            "channel-russian-osint",
+            "youtube-russianosint"
+        ],
+        "imageUrl": "static/logo/user-r3dhunt.jpg",
+        "url": "https://t.me/r3dhunt"
+    },
+    {
+        "id": "channel-russian-osint",
+        "name": "Russian OSINT",
+        "type": "channel",
+        "links": [
+            "youtube-russianosint"
+        ],
+        "imageUrl": "static/logo/channel-russian-osint.jpg",
+        "url": "https://t.me/russian_osint"
+    },
+    {
+        "id": "youtube-russianosint",
+        "name": "Russian OSINT",
+        "type": "youtube",
+        "links": [],
+        "imageUrl": "static/logo/channel-russian-osint.jpg",
+        "url": "https://youtube.com/c/RussianOSINT"
+    },
+    {
+        "id": "user-beholderishere",
+        "name": "Beholder Is Here",
+        "type": "user",
+        "links": [
+            "channel-forensictools",
+            "group-forensictoolslive",
+            "channel-netsurvivalist"
+        ],
+        "imageUrl": "static/logo/user-beholderishere.jpg",
+        "url": "https://t.me/beholderishere"
+    },
+    {
+        "id": "channel-forensictools",
+        "name": "Investigation&Forensic Tools",
+        "type": "channel",
+        "links": [
+            "group-forensictoolslive"
+        ],
+        "imageUrl": "static/logo/channel-forensictools.jpg",
+        "url": "https://t.me/forensictools"
+    },
+    {
+        "id": "group-forensictoolslive",
+        "name": "Investigation&Forensic Tools Live",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-forensictoolslive.jpg",
+        "url": "https://t.me/forensictoolslive"
+    },
+    {
+        "id": "channel-netsurvivalist",
+        "name": "Net Survivalist",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-netsurvivalist.jpg",
+        "url": "https://t.me/netsurvivalist"
+    },
+    {
+        "id": "user-ashotog",
+        "name": "Ashot Oganesyan",
+        "type": "user",
+        "links": [
+            "channel-dataleak"
+        ],
+        "imageUrl": "static/logo/user-ashotog.jpg",
+        "url": "https://t.me/ashotog"
+    },
+    {
+        "id": "channel-dataleak",
+        "name": "Investigation&Forensic Tools",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-dataleak.jpg",
+        "url": "https://t.me/dataleak"
+    },
+    {
+        "id": "user-cyb-detective",
+        "name": "Stranger",
+        "type": "user",
+        "links": [
+            "channel-cybdetective"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": "https://t.me/cyb_detective"
+    },
+    {
+        "id": "channel-cybdetective",
+        "name": "Cyber_detective",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-cybdetective.jpg",
+        "url": "https://t.me/cybdetective"
+    },
+    {
+        "id": "user-x86corez",
+        "name": "Stas'M",
+        "type": "user",
+        "links": [
+            "channel-routerscan"
+        ],
+        "imageUrl": "static/logo/user-x86corez.jpg",
+        "url": "https://t.me/x86corez"
+    },
+    {
+        "id": "channel-routerscan",
+        "name": "Router Scan",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-routerscan.jpg",
+        "url": "https://t.me/routerscan"
+    },
+    {
+        "id": "user-antipovevgenii",
+        "name": "Евгений Антипов",
+        "type": "user",
+        "links": [
+            "channel-antipov"
+        ],
+        "imageUrl": "static/logo/user-antipovevgenii.jpg",
+        "url": "https://t.me/AntipovEvgenii"
+    },
+    {
+        "id": "channel-antipov",
+        "name": "Antipov",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-antipov.jpg",
+        "url": "https://t.me/antipov"
+    },
+    {
+        "id": "user-begtin",
+        "name": "Иван Бегтин",
+        "type": "user",
+        "links": [
+            "channel-begtin",
+            "group-begtinchat"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-begtin",
+        "name": "Ivan Begtin",
+        "type": "channel",
+        "links": [
+            "group-begtinchat"
+        ],
+        "imageUrl": "static/logo/channel-begtin.jpg",
+        "url": "https://t.me/begtin"
+    },
+    {
+        "id": "group-begtinchat",
+        "name": "Чат к каналу @begtin",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-begtinchat.jpg",
+        "url": "https://t.me/begtinchat"
+    },
+    {
+        "id": "user-pavlovich",
+        "name": "Сергей Павлович",
+        "type": "user",
+        "links": [
+            "channel-people-pro-main",
+            "youtube-peoplepro"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-people-pro-main",
+        "name": "Люди PRO",
+        "type": "channel",
+        "links": [
+            "youtube-peoplepro"
+        ],
+        "imageUrl": "static/logo/channel-people-pro-main.jpg",
+        "url": "https://t.me/people_pro_main"
+    },
+    {
+        "id": "youtube-peoplepro",
+        "name": "Люди PRO",
+        "type": "youtube",
+        "links": [],
+        "imageUrl": "static/logo/youtube-peoplepro.jpg",
+        "url": "https://www.youtube.com/peoplepro"
+    },
+    {
+        "id": "user-johnripper",
+        "name": "John",
+        "type": "user",
+        "links": [
+            "channel-data1eaks"
+        ],
+        "imageUrl": "static/logo/user-johnripper.jpg",
+        "url": "https://t.me/j0hnr1pp3r"
+    },
+    {
+        "id": "channel-data1eaks",
+        "name": "Data1eaks | Утечки баз данных",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-data1eaks.jpg",
+        "url": "https://t.me/data1eaks"
+    },
+    {
+        "id": "user-hexuary",
+        "name": "BIN",
+        "type": "user",
+        "links": [
+            "channel-hashb1n"
+        ],
+        "imageUrl": "static/logo/user-hexuary.jpg",
+        "url": "https://t.me/hexuary"
+    },
+    {
+        "id": "channel-hashb1n",
+        "name": "bin",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-hashb1n.jpg",
+        "url": "https://t.me/hashb1n"
+    },
+    {
+        "id": "user-vektort13",
+        "name": "Vektor (AFK) Support",
+        "type": "user",
+        "links": [
+            "channel-vschannel",
+            "group-antidetectchat",
+            "youtube-vektort13"
+        ],
+        "imageUrl": "static/logo/user-vektort13.jpg",
+        "url": "https://t.me/vektort13"
+    },
+    {
+        "id": "channel-vschannel",
+        "name": "Vektor Security Channel",
+        "type": "channel",
+        "links": [
+            "group-antidetectchat",
+            "youtube-vektort13"
+        ],
+        "imageUrl": "static/logo/channel-vschannel.jpg",
+        "url": "https://t.me/vschannel"
+    },
+    {
+        "id": "group-antidetectchat",
+        "name": "Multiacc party [Russian]",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-antidetectchat.jpg",
+        "url": "https://t.me/antidetectchat"
+    },
+    {
+        "id": "youtube-vektort13",
+        "name": "Vektor T13",
+        "type": "youtube",
+        "links": [],
+        "imageUrl": "static/logo/youtube-vektort13.jpg",
+        "url": "https://youtube.com/c/vektort13"
+    },
+    {
+        "id": "user-satana666mx",
+        "name": "Bafomёd. Максим Понамарев",
+        "type": "user",
+        "links": [
+            "channel-osint-san-framework",
+            "group-osint-san",
+            "github-bafomet666"
+        ],
+        "imageUrl": "static/logo/user-satana666mx.jpg",
+        "url": "https://t.me/satana666mx"
+    },
+    {
+        "id": "channel-osint-san-framework",
+        "name": "Bafomёd OSINT",
+        "type": "channel",
+        "links": [
+            "group-osint-san"
+        ],
+        "imageUrl": "static/logo/channel-osint-san-framework.jpg",
+        "url": "https://t.me/osint_san_framework"
+    },
+    {
+        "id": "group-osint-san",
+        "name": "OSINT-SAN",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-osint-san.jpg",
+        "url": "https://t.me/joinchat/4qnEndyYOrdlNmJi"
+    },
+    {
+        "id": "github-bafomet666",
+        "name": "Bafomet666",
+        "type": "github",
+        "links": [],
+        "imageUrl": "static/logo/github-bafomet666.jpg",
+        "url": "https://github.com/bafomet666"
+    },
+    {
+        "id": "org-elcomsoft",
+        "name": "Elcomsoft",
+        "type": "org",
+        "links": [
+            "channel-elcomsoftru",
+            "channel-elcomsoft"
+        ],
+        "imageUrl": "static/logo/org-elcomsoft.jpg",
+        "url": "https://www.elcomsoft.ru"
+    },
+    {
+        "id": "channel-elcomsoftru",
+        "name": "Elcomsoft RU",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-elcomsoftru.jpg",
+        "url": "https://t.me/elcomsoftru"
+    },
+    {
+        "id": "channel-elcomsoft",
+        "name": "Elcomsoft",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-elcomsoft.jpg",
+        "url": "https://t.me/elcomsoft"
+    },
+    {
+        "id": "user-osintby",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-osintby",
+            "group-osintby-chat"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-osintby",
+        "name": "OSINT Беларусь",
+        "type": "channel",
+        "links": [
+            "group-osintby-chat"
+        ],
+        "imageUrl": "static/logo/channel-osintby.jpg",
+        "url": "https://t.me/osintby"
+    },
+    {
+        "id": "group-osintby-chat",
+        "name": "OSINT Беларусь Чат",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-osintby-chat.jpg",
+        "url": "https://t.me/osintby_chat"
+    },
+    {
+        "id": "user-dstoun",
+        "name": "D.Stoun",
+        "type": "user",
+        "links": [
+            "channel-pulsechanel"
+        ],
+        "imageUrl": "static/logo/user-dstoun.jpg",
+        "url": "https://t.me/dstoun"
+    },
+    {
+        "id": "channel-pulsechanel",
+        "name": "PulSe",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-pulsechanel.jpg",
+        "url": "https://t.me/pulsechanel"
+    },
+    {
+        "id": "user-ciartem",
+        "name": "AS",
+        "type": "user",
+        "links": [
+            "channel-molfar-bi"
+        ],
+        "imageUrl": "static/logo/user-ciartem.jpg",
+        "url": "https://t.me/ciartem"
+    },
+    {
+        "id": "channel-molfar-bi",
+        "name": "Molfar об OSINT",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-molfar-bi.jpg",
+        "url": "https://t.me/molfar_bi"
+    },
+    {
+        "id": "user-timohin",
+        "name": "Александр Тимохин",
+        "type": "user",
+        "links": [
+            "channel-rosint-info"
+        ],
+        "imageUrl": "static/logo/channel-rosint-info.jpg",
+        "url": "https://t.me/rosint_info"
+    },
+    {
+        "id": "channel-rosint-info",
+        "name": "ROSINT: Интернет-разведка с человеческим лицом",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-rosint-info.jpg",
+        "url": "https://t.me/rosint_info"
+    },
+    {
+        "id": "user-masalovich",
+        "name": "Андрей Масалович",
+        "type": "user",
+        "links": [
+            "channel-maspartners",
+            "youtube-kiberded"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-maspartners",
+        "name": "Масалович и партнеры: OSINT",
+        "type": "channel",
+        "links": [
+            "youtube-kiberded"
+        ],
+        "imageUrl": "static/logo/channel-maspartners.jpg",
+        "url": "https://t.me/maspartners"
+    },
+    {
+        "id": "youtube-kiberded",
+        "name": "КиберДед",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/youtube-kiberded.jpg",
+        "url": "https://www.youtube.com/c/KiberDed"
+    },
+    {
+        "id": "user-itscrt",
+        "name": "Админка IT&FCK RKN",
+        "type": "user",
+        "links": [
+            "channel-tg-security"
+        ],
+        "imageUrl": "static/logo/user-itscrt.jpg",
+        "url": "https://t.me/it_scrt"
+    },
+    {
+        "id": "channel-tg-security",
+        "name": "IT&Безопасность",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-tg-security.jpg",
+        "url": "https://t.me/tg_security"
+    },
+    {
+        "id": "user-zeroday",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-zeroday-spb"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-zeroday-spb",
+        "name": "ZERO-DAY",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-zeroday-spb.jpg",
+        "url": "https://t.me/zeroday_spb"
+    },
+    {
+        "id": "user-over",
+        "name": "Игорь Овер",
+        "type": "user",
+        "links": [
+            "channel-overlamer1"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-overlamer1",
+        "name": "LAMERLAND - overbafer1",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-overlamer1.jpg",
+        "url": "https://t.me/overlamer1"
+    },
+    {
+        "id": "user-alukatsk",
+        "name": "Alexey Lukatsky",
+        "type": "user",
+        "links": [
+            "channel-alukatsky",
+            "youtube-lukatsky",
+            "website-lukatsky",
+            "twitter-alukatsky"
+        ],
+        "imageUrl": "static/logo/user-alukatsk.jpg",
+        "url": "https://t.me/alukatsk"
+    },
+    {
+        "id": "channel-alukatsky",
+        "name": "Пост Лукацкого",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-alukatsky.jpg",
+        "url": "https://t.me/alukatsky"
+    },
+    {
+        "id": "youtube-lukatsky",
+        "name": "Alexey Lukatsky",
+        "type": "youtube",
+        "links": [],
+        "imageUrl": "static/logo/youtube-lukatsky.jpg",
+        "url": "https://www.youtube.com/user/Lukatsky"
+    },
+    {
+        "id": "website-lukatsky",
+        "name": "Бизнес без опасности",
+        "type": "website",
+        "links": [],
+        "imageUrl": "static/logo/website-lukatsky.jpg",
+        "url": "https://lukatsky.ru"
+    },
+    {
+        "id": "twitter-alukatsky",
+        "name": "Alexey Lukatsky",
+        "type": "twitter",
+        "links": [],
+        "imageUrl": "static/logo/twitter-alukatsky.jpg",
+        "url": "https://alukatsky.ru"
+    },
+    {
+        "id": "user-romachev",
+        "name": "Roman Romachev",
+        "type": "user",
+        "links": [
+            "channel-rtechnocom",
+            "website-rtechno"
+        ],
+        "imageUrl": "static/logo/user-romachev.jpg",
+        "url": "https://t.me/romachev"
+    },
+    {
+        "id": "channel-rtechnocom",
+        "name": "Сводки частной разведки",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-rtechnocom.jpg",
+        "url": "https://t.me/rtechnocom"
+    },
+    {
+        "id": "website-rtechno",
+        "name": "r-techno",
+        "type": "website",
+        "links": [],
+        "imageUrl": "static/logo/website-rtechno.png",
+        "url": "https://r-techno.com"
+    },
+    {
+        "id": "user-freedomf0x",
+        "name": "Павел Ситников",
+        "type": "user",
+        "links": [
+            "channel-freedomf0x"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-freedomf0x",
+        "name": "Freedom F0x",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-freedomf0x.jpg",
+        "url": "https://t.me/freedomf0x"
+    },
+    {
+        "id": "user-ibooom",
+        "name": "Bo0oM",
+        "type": "user",
+        "links": [
+            "group-webpwnchat"
+        ],
+        "imageUrl": "static/logo/user-ibooom.jpg",
+        "url": "https://t.me/i_bo0om"
+    },
+    {
+        "id": "group-webpwnchat",
+        "name": "WebPwnChat",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-webpwnchat.jpg",
+        "url": "https://t.me/webpwnchat"
+    },
+    {
+        "id": "user-codeby",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "group-thecodeby",
+            "channel-codeby-sec",
+            "website-codeby"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-codeby-sec",
+        "name": "Codeby Pentest",
+        "type": "channel",
+        "links": [
+            "group-thecodeby"
+        ],
+        "imageUrl": "static/logo/channel-codeby-sec.jpg",
+        "url": "https://t.me/codeby_sec"
+    },
+    {
+        "id": "group-thecodeby",
+        "name": "The Codeby",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-thecodeby.jpg",
+        "url": "https://t.me/thecodeby"
+    },
+    {
+        "id": "website-codeby",
+        "name": "CODEBY.NET",
+        "type": "website",
+        "links": [],
+        "imageUrl": "static/logo/website-codeby.jpg",
+        "url": "https://codeby.net"
+    },
+    {
+        "id": "user-cybred",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-cybred"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": "https://t.me/moodytalk_bot"
+    },
+    {
+        "id": "channel-cybred",
+        "name": "Cybred",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-cybred.jpg",
+        "url": "https://t.me/cybred"
+    },
+    {
+        "id": "user-true-secator",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-true-secator"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-true-secator",
+        "name": "SecAtor",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-true-secator.jpg",
+        "url": "https://t.me/true_secator"
+    },
+    {
+        "id": "user-mifkilla",
+        "name": "MiF",
+        "type": "user",
+        "links": [
+            "channel-tmgroupsecurity",
+            "group-bolgarkachat"
+        ],
+        "imageUrl": "static/logo/user-mifkilla.jpg",
+        "url": "https://t.me/mifkilla"
+    },
+    {
+        "id": "channel-tmgroupsecurity",
+        "name": "Нетипичный Безопасник (Мефодий Келевра)",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-tmgroupsecurity.jpg",
+        "url": "https://t.me/tmgroupsecurity"
+    },
+    {
+        "id": "group-bolgarkachat",
+        "name": "Kelevra Security Chat",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-bolgarkachat.jpg",
+        "url": "https://t.me/bolgarkachat"
+    },
+    {
+        "id": "user-yarbabin",
+        "name": "Yaroslav Babin",
+        "type": "user",
+        "links": [
+            "group-thestandoff",
+            "channel-thestandoffnews"
+        ],
+        "imageUrl": "static/logo/user-yarbabin.jpg",
+        "url": "https://t.me/yarbabin"
+    },
+    {
+        "id": "group-thestandoff",
+        "name": "THE STANDOFF CHAT",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-thestandoff.jpg",
+        "url": "https://t.me/thestandoff"
+    },
+    {
+        "id": "channel-thestandoffnews",
+        "name": "THE STANDOFF NEWS",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-thestandoffnews.jpg",
+        "url": "https://t.me/thestandoffnews"
+    },
+    {
+        "id": "user-cepter",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-cepter",
+            "group-cepter-chat",
+            "twitter-intercepterng",
+            "youtube-intercepter"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-cepter",
+        "name": "Intercepter-NG",
+        "type": "channel",
+        "links": [
+            "group-cepter-chat"
+        ],
+        "imageUrl": "static/logo/channel-cepter.jpg",
+        "url": "https://t.me/cepter"
+    },
+    {
+        "id": "group-cepter-chat",
+        "name": "Intercepter-NG Chat",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-cepter-chat.jpg",
+        "url": "https://t.me/cepter_chat"
+    },
+    {
+        "id": "twitter-intercepterng",
+        "name": "Intercepter",
+        "type": "twitter",
+        "links": [],
+        "imageUrl": "static/logo/twitter-intercepterng.jpg",
+        "url": "https://twitter.com/intercepterng"
+    },
+    {
+        "id": "youtube-intercepter",
+        "name": "Intercepter",
+        "type": "youtube",
+        "links": [],
+        "imageUrl": "static/logo/youtube-intercepter.jpg",
+        "url": "https://youtube.com/c/intercepter"
+    },
+    {
+        "id": "user-kvakirsanov",
+        "name": "Anton Kirsanov 🐸",
+        "type": "user",
+        "links": [
+            "group-secinfosec"
+        ],
+        "imageUrl": "static/logo/user-kvakirsanov.jpg",
+        "url": "https://t.me/kvakirsanov"
+    },
+    {
+        "id": "group-secinfosec",
+        "name": "secinfosec",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-secinfosec.jpg",
+        "url": "https://t.me/secinfosec"
+    },
+    {
+        "id": "user-usersbox",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "group-usersbox-chat"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "group-usersbox-chat",
+        "name": "usersbox.chat",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-usersbox-chat.jpg",
+        "url": "https://t.me/usersbox_chat"
+    },
+    {
+        "id": "user-shadow",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "group-shadow-chat-tg",
+            "channel-shadow-group-tg"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "group-shadow-chat-tg",
+        "name": "SHADOW:Chat",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-shadow-chat-tg.jpg",
+        "url": "https://t.me/shadow_chat_tg"
+    },
+    {
+        "id": "channel-shadow-group-tg",
+        "name": "SHADOW:Group",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-shadow-group-tg.jpg",
+        "url": "https://t.me/shadow_group_tg"
+    },
+    {
+        "id": "user-my-cyde",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-my-cyde"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-my-cyde",
+        "name": "Моя кибероборона // My CYber DEfence",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-my-cyde.jpg",
+        "url": "https://t.me/my_cyde"
+    },
+    {
+        "id": "user-ralf-hacker",
+        "name": "Ralf Hacker",
+        "type": "user",
+        "links": [
+            "channel-ralfhackerchannel",
+            "group-ralfchackerpublicchat"
+        ],
+        "imageUrl": "static/logo/user-ralf-hacker.jpg",
+        "url": "https://t.me/hackerralf8"
+    },
+    {
+        "id": "channel-ralfhackerchannel",
+        "name": "Ralf Hacker Channel",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-ralfhackerchannel.jpg",
+        "url": "https://t.me/ralfhackerchannel"
+    },
+    {
+        "id": "group-ralfchackerpublicchat",
+        "name": "Ralf Hacker Public Chat",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-ralfchackerpublicchat.jpg",
+        "url": "https://t.me/ralfhackerpublicchat"
+    },
+    {
+        "id": "user-gebutcher",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-gebutcher"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-gebutcher",
+        "name": "Заметки Gebutcher",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-gebutcher.jpg",
+        "url": "https://t.me/gebutcher"
+    },
+    {
+        "id": "user-infosecurityevil",
+        "name": "Infosecurity Evil",
+        "type": "user",
+        "links": [
+            "channel-in4security"
+        ],
+        "imageUrl": "static/logo/user-infosecurityevil.jpg",
+        "url": "https://t.me/infosecurityevil"
+    },
+    {
+        "id": "channel-in4security",
+        "name": "in4security",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-in4security.jpg",
+        "url": "https://t.me/in4security"
+    },
+    {
+        "id": "org-group-ib",
+        "name": "Group-IB",
+        "type": "org",
+        "links": [
+            "channel-group-ib"
+        ],
+        "imageUrl": "static/logo/org-group-ib.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-group-ib",
+        "name": "Group-IB",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-group-ib.jpg",
+        "url": "https://t.me/group_ib"
+    },
+    {
+        "id": "user-iskra112",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-iskra112"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-iskra112",
+        "name": "𝕀𝕊𝕂ℝ-𝔸 𝔻𝕒𝕚𝕝𝕪",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-iskra112.jpg",
+        "url": "https://t.me/iskra112"
+    },
+    {
+        "id": "user-persdata",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-persdata"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-persdata",
+        "name": "Персональные_данные",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-persdata.jpg",
+        "url": "https://t.me/persdata"
+    },
+    {
+        "id": "user-seadm1n",
+        "name": "S.E.Admin",
+        "type": "user",
+        "links": [
+            "channel-social-engineering",
+            "channel-s-e-book"
+        ],
+        "imageUrl": "static/logo/user-seadm1n.jpg",
+        "url": "https://t.me/seadm1n"
+    },
+    {
+        "id": "channel-social-engineering",
+        "name": "Social Engineering",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-social-engineering.jpg",
+        "url": "https://t.me/social_engineering"
+    },
+    {
+        "id": "channel-s-e-book",
+        "name": "S.E.Book",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-s-e-book.jpg",
+        "url": "https://t.me/s_e_book"
+    },
+    {
+        "id": "user-defcon",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "group-dc7499",
+            "channel-defcon"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "group-dc7499",
+        "name": "DC7499",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-dc7499.jpg",
+        "url": "https://t.me/dc7499"
+    },
+    {
+        "id": "channel-defcon",
+        "name": "DEFCON Moscow",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-defcon.jpg",
+        "url": "https://t.me/defcon"
+    },
+    {
+        "id": "user-ksvark",
+        "name": "Kseniya Kravtsova",
+        "type": "user",
+        "links": [
+            "group-spbctf",
+            "youtube-spbctf"
+        ],
+        "imageUrl": "static/logo/user-ksvark.jpg",
+        "url": "https://t.me/ksvark"
+    },
+    {
+        "id": "group-spbctf",
+        "name": "SPbCTF",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-spbctf.jpg",
+        "url": "https://t.me/spbctf"
+    },
+    {
+        "id": "youtube-spbctf",
+        "name": "CTF в Петербурге",
+        "type": "youtube",
+        "links": [
+            "group-spbctf"
+        ],
+        "imageUrl": "static/logo/youtube-spbctf.jpg",
+        "url": "https://youtube.com/c/spbctf"
+    },
+    {
+        "id": "user-cyberjobsrussia",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-cyberjobsrussia"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-cyberjobsrussia",
+        "name": "CyberJobsRussia",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-cyberjobsrussia.jpg",
+        "url": "https://t.me/cyberjobsrussia"
+    },
+    {
+        "id": "user-dc8044",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "group-dc8044"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "group-dc8044",
+        "name": "DC8044 Newf4G ❄️",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-dc8044.jpg",
+        "url": "https://t.me/dc8044"
+    },
+    {
+        "id": "user-anton-shipulin",
+        "name": "Anton Shipulin",
+        "type": "user",
+        "links": [
+            "channel-ruscadasecnews",
+            "group-ruscadasec"
+        ],
+        "imageUrl": "static/logo/user-anton-shipulin.jpg",
+        "url": "https://t.me/anton_shipulin"
+    },
+    {
+        "id": "channel-ruscadasecnews",
+        "name": "RUSCADASEC news: Кибербезопасность АСУ ТП",
+        "type": "channel",
+        "links": [
+            "group-ruscadasec"
+        ],
+        "imageUrl": "static/logo/channel-ruscadasecnews.jpg",
+        "url": "https://t.me/ruscadasecnews"
+    },
+    {
+        "id": "group-ruscadasec",
+        "name": "RUSCADASEC community: Кибербезопасность АСУ ТП",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-ruscadasec.jpg",
+        "url": "https://t.me/ruscadasec"
+    },
+    {
+        "id": "user-router-os",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "group-router-os"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "group-router-os",
+        "name": "RouterOS Security MikroTik",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-router-os.jpg",
+        "url": "https://t.me/router_os"
+    },
+    {
+        "id": "user-kii187fz",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "group-kii187fz"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "group-kii187fz",
+        "name": "КИИ 187-ФЗ",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-kii187fz.jpg",
+        "url": "https://t.me/kii187fz"
+    },
+    {
+        "id": "user-komarov",
+        "name": "Алексей Комаров",
+        "type": "user",
+        "links": [
+            "channel-zlonov",
+            "channel-authbiods"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-zlonov",
+        "name": "ZLONOV",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-zlonov.jpg",
+        "url": "https://t.me/zlonov"
+    },
+    {
+        "id": "channel-authbiods",
+        "name": "Аутентификация, биометрия, электронная подпись",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-authbiods.jpg",
+        "url": "https://t.me/authbiods"
+    },
+    {
+        "id": "user-artemov",
+        "name": "Никита Артемов",
+        "type": "user",
+        "links": [
+            "channel-artemov-security"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-artemov-security",
+        "name": "Мыслить как безопасник",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-artemov-security.jpg",
+        "url": "https://t.me/artemov_security"
+    },
+    {
+        "id": "user-darknet-prison",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-darknet-prison"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-darknet-prison",
+        "name": "Горизонт Событий",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-darknet-prison.jpg",
+        "url": "https://t.me/darknet_prison"
+    },
+    {
+        "id": "user-nekaspersky",
+        "name": "???",
+        "type": "user",
+        "links": [
+            "channel-nekaspersky"
+        ],
+        "imageUrl": "static/logo/user.jpg",
+        "url": null
+    },
+    {
+        "id": "channel-nekaspersky",
+        "name": "НеКасперский",
+        "type": "channel",
+        "links": [],
+        "imageUrl": "static/logo/channel-nekaspersky.jpg",
+        "url": "https://t.me/nekaspersky"
+    },
+    {
+        "id": "user-schwarz-osint",
+        "name": "Schwarz_Osint",
+        "type": "user",
+        "links": [
+            "channel-schwarz-osint",
+            "group-geoint",
+            "group-intelligence-guild"
+        ],
+        "imageUrl": "static/logo/user-schwarz-osint.jpg",
+        "url": "https://t.me/schwarz_osint_contact"
+    },
+    {
+        "id": "channel-schwarz-osint",
+        "name": "Schwarz_Osint",
+        "type": "channel",
+        "links": [
+            "group-geoint"
+        ],
+        "imageUrl": "static/logo/channel-schwarz-osint.jpg",
+        "url": "https://t.me/schwarz_osint"
+    },
+    {
+        "id": "group-geoint",
+        "name": "GEOINT",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-geoint.jpg",
+        "url": "https://t.me/geoint"
+    },
+    {
+        "id": "group-intelligence-guild",
+        "name": "Северная Пальмира",
+        "type": "group",
+        "links": [],
+        "imageUrl": "static/logo/group-intelligence-guild.jpg",
+        "url": "https://t.me/intelligence_guild"
+    }
+]
