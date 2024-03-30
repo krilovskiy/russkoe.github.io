@@ -8,6 +8,14 @@
     "url": "https://t.me/russkoe_community"
   },
   {
+    "id": "scope-ru-uzbekistan",
+    "type": "scope",
+    "name": "Канал сообщества Узбекистана",
+    "links": ["scope-ru"],
+    "imageUrl": "static/logo/scope-house.png",
+    "url": "https://t.me/russkoe_community_uzbekistan"
+  },
+  {
     "id": "scope-ru-base",
     "type": "public-group",
     "name": "РУ: База",
