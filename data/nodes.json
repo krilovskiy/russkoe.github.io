@@ -12,9 +12,19 @@
     "type": "public-group",
     "name": "РУ: База",
     "links": [
-      "scope-ru",
+      "scope-ru"
     ],
     "imageUrl": "static/logo/group-logo.png",
     "url": "https://t.me/+Wir8KLKNAZllZmEy"
+  },
+  {
+    "id": "scope-ru-obschenie",
+    "type": "public-group",
+    "name": "РУ: Общение",
+    "links": [
+      "scope-ru"
+    ],
+    "imageUrl": "static/logo/group-logo.png",
+    "url": "https://t.me/+rnXWb615RBBjNjYy"
   }
-];
+]
